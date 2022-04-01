@@ -1,6 +1,6 @@
 ### Hi there 👋
-Wellcome to my Github
-Bolg : 
+Wellcome to my Github. 
+Bolg : https://junyong1111.github.io
 
 <!--
 **junyong1111/junyong1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
