@@ -10,7 +10,8 @@ Wellcome to my Github.
 - 💬 Ask me about ...  
  Email : jypoer@naver.com  
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning ...  
+ Kookmin University
 
 <!--
 **junyong1111/junyong1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
