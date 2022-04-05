@@ -2,7 +2,9 @@
 Wellcome to my Github.  
 
 
-- 🐣 Bolg : https://junyong1111.github.io   
+- 🐣 Bolg...  
+ Gitblog : https://junyong1111.github.io. 
+ Tstory : https://jypark1111.tistory.com
 
 
 - 💬 Ask me about ...  
