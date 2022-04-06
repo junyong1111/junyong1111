@@ -13,8 +13,8 @@ Wellcome to my Github.
 - 🌱 I’m currently learning ...  
  Kookmin University
  - 💻 My programing language  
-  C/C++  
-  Python 
+  C/C++.  
+  Python. 
   learning Java
 
 <!--
