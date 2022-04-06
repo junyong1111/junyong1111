@@ -14,7 +14,7 @@ Wellcome to my Github.
  Kookmin University
  - 💻 My programing language  
   C/C++  
-  Python
+  Python 
   learning Java
 
 <!--
