@@ -12,7 +12,7 @@ Wellcome to my Github.
 
 - 🌱 I’m currently learning ...  
  Kookmin University
- - 💻 My programing language
+ - 💻 My programing language  
   C/C++  
   Python
   learning Java
