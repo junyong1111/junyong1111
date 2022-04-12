@@ -15,6 +15,10 @@ Wellcome to my Github.
   C/C++.  
   Python.  
   learning Java.
+  
+ - 😄 My currently algorithm level ...  
+  Baekjoon : Silver_5  
+  Programmers : Level_1   
 
 <!--
 **junyong1111/junyong1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
