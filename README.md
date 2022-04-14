@@ -1,8 +1,7 @@
 ### Hi there 👋
 Wellcome to my Github.  
 
-<a href="[https://junyong1111.github.io]" target="_blank"><img src="https://img.shields.io/badge/[GitBlog]-[222222]?style=flat-square&logo=[GitHub Pages]&logoColor=white"/></a>
-
+ <a href="https://junyong1111.github.io/" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=GitBlog&logoColor=white"/></a>
 
 - 🐣 Bolg...  
  Gitblog : https://junyong1111.github.io.  
@@ -22,8 +21,7 @@ Wellcome to my Github.
   Baekjoon : Silver_5  
   Programmers : Level_1   
   
-![junyong1111's github stats](https://github-readme-stats.vercel.app/api?username=junyong1111&show_icons=true)
-[![junyong1111's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junyong1111&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/junyong1111)
+![junyong1111's github stats](https://github-readme-stats.vercel.app/api?username=junyong1111&show_icons=true)[![junyong1111's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junyong1111&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/junyong1111)
 
 <!--
 **junyong1111/junyong1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
