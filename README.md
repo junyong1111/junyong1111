@@ -1,7 +1,7 @@
 ### Hi there 👋
 Wellcome to my Github.  
 
-<a href="["https://junyong1111.github.io/"]" target="_blank"><img src="https://img.shields.io/badge/[GitBolg]-[222222]?style=flat-square&logo=[GitHub Pages]&logoColor=white"/></a>
+<a href="[https://junyong1111.github.io/]" target="_blank"><img src="https://img.shields.io/badge/[GitBolg]-[222222]?style=flat-square&logo=[GitHub Pages]&logoColor=white"/></a>
 
 
 - 🐣 Bolg...  
@@ -22,12 +22,17 @@ Wellcome to my Github.
   Baekjoon : Silver_5  
   Programmers : Level_1   
   
- 
+ ![junyong1111's github stats](https://github-readme-stats.vercel.app/api?username=jypark93@kookmin.ac.kr&show_icons=true)
+ [!junyong1111's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jypark93@kookmin.ac.kr&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jypark93@kookmin.ac.kr)
 
 <!--
 **junyong1111/junyong1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+커밋스테이트 방법
+
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
