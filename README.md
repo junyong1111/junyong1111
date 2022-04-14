@@ -1,7 +1,7 @@
 ### Hi there 👋
 Wellcome to my Github.  
 
- <a href="https://junyong1111.github.io/" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=GitBlog&logoColor=white"/></a>
+ <a href="https://junyong1111.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-22222?style=flat-square&logo=&logoColor=white"/></a>
 
 - 🐣 Bolg...  
  Gitblog : https://junyong1111.github.io.  
