@@ -11,7 +11,7 @@ Wellcome to my Github.
  Email : jypoer@naver.com  
 
 - 🌱 I’m currently learning ...  
- Kookmin University
+ at Kookmin University
  - 💻 My programing language ...  
   C/C++.  
   Python.  
