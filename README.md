@@ -25,12 +25,12 @@ Welcome to my Github.
    
    <a href="https://junyong1111.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-22222?style=flat-square&logo=&logoColor=white"/></a>
    
+   <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
-   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Python-0DBD6F?style=flat-square&logo=Python&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Java-6C5FDD?style=flat-square&logo=Python&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/C-0DBD6F?style=flat-square&logo=Python&logoColor=white"/></a>
-  
-  
+   <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+ 
   
  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 ![junyong1111's github stats](https://github-readme-stats.vercel.app/api?username=junyong1111&show_icons=true&theme=dark)
