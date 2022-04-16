@@ -2,9 +2,6 @@
 
 Welcome to my Github.  
 
-
- <a href="https://junyong1111.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-22222?style=flat-square&logo=&logoColor=white"/></a>
-
 - 🐣 Bolg...  
  Gitblog : https://junyong1111.github.io.  
 
@@ -26,9 +23,12 @@ Welcome to my Github.
   - ⚡ My interesting ...  
    IOT ,ComputerVision, Arduino
    
+   <a href="https://junyong1111.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-22222?style=flat-square&logo=&logoColor=white"/></a>
+   
    <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Java-6C5FDD?style=flat-square&logo=Python&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/C-0DBD6F?style=flat-square&logo=Python&logoColor=white"/></a>
   
   
   
