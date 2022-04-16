@@ -27,9 +27,8 @@ Welcome to my Github.
    
    <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
-   <img src="https://img.shields.io/badge/Python-0DBD6F?style=flat-square&logo=Python&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Python-437DD2?style=flat-square&logo=Python&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Java-6C5FDD?style=flat-square&logo=Python&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  
   
  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
