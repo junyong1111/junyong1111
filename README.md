@@ -34,11 +34,12 @@ Welcome to my Github.
  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 ![junyong1111's github stats](https://github-readme-stats.vercel.app/api?username=junyong1111&show_icons=true&theme=dark)
 
-[![junyong1111's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junyong1111&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/junyong1111/github-readme-stats)
 
 
 <!--
 **junyong1111/junyong1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![junyong1111's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junyong1111&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/junyong1111/github-readme-stats)
+
 
 Here are some ideas to get you started:
 커밋스테이트 방법
