@@ -25,10 +25,11 @@ Welcome to my Github.
    
    <a href="https://junyong1111.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-22222?style=flat-square&logo=&logoColor=white"/></a>
    
-   <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
-   <img src="https://img.shields.io/badge/Python-437DD2?style=flat-square&logo=Python&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/Java-6C5FDD?style=flat-square&logo=Python&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/C-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> 
+   <img src="https://img.shields.io/badge/Python-437DD2?style=for-the-badge&logo=Python&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Java-6C5FDD?style=for-the-badge&logo=Python&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/raspberry-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
  
   
  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
