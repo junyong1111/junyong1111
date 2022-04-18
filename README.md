@@ -11,10 +11,6 @@ Welcome to my Github.
 
 - 🌱 I’m currently learning ...  
  at Kookmin University
- - 💻 My programing language ...  
-  C/C++.  
-  Python.  
-  learning Java.
   
  - 😄 My currently algorithm level ...  
   Baekjoon : Silver_4 
