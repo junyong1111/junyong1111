@@ -8,9 +8,6 @@ Welcome to my Github.
 
 - 💬 Ask me about ...  
  Email : jypoer@naver.com  
-
-- 🎓 Education ...  
- at Kookmin University
   
  -  My currently algorithm level ...  
   Baekjoon : Silver_4 
