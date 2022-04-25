@@ -10,7 +10,7 @@ Welcome to my Github.
  Email : jypoer@naver.com  
   
  -  My currently algorithm level ...  
-  Baekjoon : Silver_3
+  Baekjoon : Silver_3  
   Programmers : Level_1   
   
   - ⚡ My interesting ...  
@@ -28,7 +28,7 @@ Welcome to my Github.
    
  
  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
-![junyong1111's github stats](https://github-readme-stats.vercel.app/api?username=junyong1111&show_icons=true&theme=dark)
+![junyong1111's github stats](https://github-readme-stats.vercel.app/api?username=junyong1111&show_icons=true&theme=dark)  
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jypark93)](https://solved.ac/jypark93)
 
