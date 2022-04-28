@@ -11,7 +11,6 @@ Welcome to my Github.
   
  -  My currently algorithm level ...  
   Baekjoon : Silver_3  
-  Programmers : Level_1   
   
   - ⚡ My interesting ...  
    IOT ,ComputerVision, Arduino
