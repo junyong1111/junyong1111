@@ -10,7 +10,7 @@ Welcome to my Github.
  Email : jypoer@naver.com  
   
  -  My currently algorithm level ...  
-  Baekjoon : Silver_3  
+  Baekjoon : Silver_2  
   
   - ⚡ My interesting ...  
    IOT ,ComputerVision, Arduino
