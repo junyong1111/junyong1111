@@ -13,7 +13,7 @@ Welcome to my Github.
 
 
 - 💬 Ask me about ...  
- Email : jypoer@naver.com  
+ Email : jyporse@naver.com  
   
  -  My currently algorithm level ...  
   Baekjoon : Silver_2  
