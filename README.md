@@ -19,7 +19,7 @@ Welcome to my Github.
   Baekjoon : Silver_2  
   
   - ⚡ My interesting ...  
-   IOT, Arduino, RaspberryPi, AI, ComputerVision
+    Arduino, RaspberryPi, AI, ComputerVision
    
    <a href="https://junyong1111.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-22222?style=flat-square&logo=&logoColor=white"/></a>
    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jypark93@kookmin.ac.kr)
@@ -36,7 +36,7 @@ Welcome to my Github.
 <!-- ![junyong1111's github stats](https://github-readme-stats.vercel.app/api?username=junyong1111&show_icons=true&theme=dark)   -->
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jypark93)](https://solved.ac/jypark93)
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jypark93&theme=white)
+ ![profile](http://mazandi.herokuapp.com/api?handle=jypark93&theme=white)
 
 
 <!--
