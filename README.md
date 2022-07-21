@@ -16,7 +16,7 @@ Welcome to my Github.
  Email : jyporse@naver.com  
   
  -  My currently algorithm level ...  
-  Baekjoon : Silver_1
+  Baekjoon : Gold_5
   
   - ⚡ My interesting ...  
    IOT, Arduino, RaspberryPi, AI, ComputerVision
