@@ -14,6 +14,7 @@ Welcome to my Github.
 
 - 💬 Ask me about ...  
  Email : jyporse@naver.com  
+          jypark93@kookmin.ac.kr
   
  -  My currently algorithm level ...  
   Baekjoon : Gold5
