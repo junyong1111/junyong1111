@@ -40,7 +40,7 @@ Welcome to my Github.
    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   
-   <img src="https://img.shields.io/badge/Fluuter-02569B?style=for-the-badge&logo=Fluuter&logoColor=white">
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
       
    <img src="https://img.shields.io/badge/C-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> 
