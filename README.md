@@ -30,16 +30,24 @@ Welcome to my Github.
    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jypark93@kookmin.ac.kr)
 
    <div align="center">
-     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+   
+   <img src="https://img.shields.io/badge/raspberry-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+      
+   <div align="center">
+     
+   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+  
+   <img src="https://img.shields.io/badge/Fluuter-02569B?style=for-the-badge&logo=Fluuter&logoColor=white">
       
    <img src="https://img.shields.io/badge/C-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> 
    <img src="https://img.shields.io/badge/Python-437DD2?style=for-the-badge&logo=Python&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Java-6C5FDD?style=for-the-badge&logo=Python&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/raspberry-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+   
+
    
    </div>
    
