@@ -19,7 +19,7 @@ Welcome to my Github.
   Baekjoon : Gold5
   
   - ⚡ My interesting ...  
-   IOT, Arduino, RaspberryPi, AI, ComputerVision
+   IOT, Arduino, RaspberryPi, AI, ComputerVision, App
    
    
    
