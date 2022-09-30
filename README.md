@@ -16,7 +16,7 @@ Welcome to my Github.
  Email : jypark93@kookmin.ac.kr
   
  -  My currently algorithm level ...  
-  Baekjoon : Gold5
+  Baekjoon : Gold4
   
   - ⚡ My interesting ...  
    IOT, Arduino, RaspberryPi, AI, ComputerVision, App
