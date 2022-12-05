@@ -17,7 +17,6 @@ Welcome to my Github.
   
  -  My currently algorithm level ...  
   Baekjoon : Gold4
-유니티
   
   - ⚡ My interesting ...  
    IOT, Arduino, RaspberryPi, AI, ComputerVision, App, Cloud service
