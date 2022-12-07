@@ -7,8 +7,8 @@ Welcome to my Github.
 - 🏆Prize  
 
   🥇 교내 캡스톤디자인 1st
-    임소경
-- 🐣 Bolg...  
+   
+- 🐣 Blg...  
  Gitblog : https://junyong1111.github.io.  
 
 
