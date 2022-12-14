@@ -7,6 +7,7 @@ Welcome to my Github.
 - 🏆Prize  
 
   🥇 교내 캡스톤디자인 1st
+  🥇 The World Embedded software Contest 2022 Car/Mobility Part The First Prize
    
 - 🐣 Blg...  
  Gitblog : https://junyong1111.github.io.  
