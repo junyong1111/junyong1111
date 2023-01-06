@@ -22,7 +22,7 @@ Welcome to my Github.
   Baekjoon : Gold4
   
   - ⚡ My interesting ...  
-   IOT, Arduino, RaspberryPi, AI, ComputerVision, App, Cloud service
+   IOT, Arduino, RaspberryPi, AI, ComputerVision, App, Cloud service, 
    
    
    
