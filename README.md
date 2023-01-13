@@ -4,6 +4,8 @@
 
 Welcome to my Github.  
 
+- 42 seoul
+
 - 🏆Prize  
 
   🥇 교내 캡스톤디자인 The First Prize(1st)  
