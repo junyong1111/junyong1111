@@ -4,7 +4,6 @@
 
 Welcome to my Github.  
 
-- 42 seoul
 
 - 🏆Prize  
 
