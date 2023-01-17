@@ -50,7 +50,7 @@ Welcome to my Github.
    
    <img src="https://img.shields.io/badge/raspberry-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"> 
    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
+   <img src="https://img.shields.io/badge/YOLOv4-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
      
       
