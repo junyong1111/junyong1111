@@ -25,7 +25,6 @@ Welcome to my Github.
   - ⚡ My interesting ...  
    IOT, Arduino, RaspberryPi, AI, ComputerVision, App, Cloud service, 
    
-   42seoul
    
    <div align="center">
    
