@@ -20,7 +20,7 @@ Welcome to my Github.
  Email : jypark93@kookmin.ac.kr
   
 - ⚡ My interesting ...  
-   IOT, Arduino, RaspberryPi, AI, ComputerVision, App, Cloud service, 
+  Arduino, RaspberryPi, AI, ComputerVision, App, Cloud service, 
    
    
    <div align="center">
