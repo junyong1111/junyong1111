@@ -13,8 +13,6 @@ Welcome to my Github.
     
   🥇 The World Embedded software Contest 2022 Car/Mobility Part The First Prize(1st)
    
-- 🐣 Blog
- Gitblog : https://junyong1111.github.io.  
    
    
    <div align="center">
