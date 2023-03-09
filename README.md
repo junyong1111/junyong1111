@@ -13,15 +13,8 @@ Welcome to my Github.
     
   🥇 The World Embedded software Contest 2022 Car/Mobility Part The First Prize(1st)
    
-- 🐣 Blg...  
+- 🐣 Blog
  Gitblog : https://junyong1111.github.io.  
-
-
-- 💬 Ask me about ...  
- Email : jypark93@kookmin.ac.kr
-  
-- ⚡ My interesting ...  
-  Arduino, RaspberryPi, AI, ComputerVision, App, Cloud service, 
    
    
    <div align="center">
