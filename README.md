@@ -8,12 +8,12 @@ Welcome to my Github.
 
 | TYPE | Date | Contents | Organization |
 | --- | --- | --- | --- |
-| 🎓Education | 2021.03 ~ 2024.02 | 국민대학교 소프트웨어전공 | kookmin University |
+| 🎓Education | 2021.03 ~ 2024.02 | 국민대학교 소프트웨어전공 | Kookmin Univ. |
 | Project | 2021.06 ~ 2021.08 | [실내 공기질 모니터링 시스템](https://github.com/junyong1111/Air-Quality-KMU) | KMU 하계 현장실습 |
 | 🏆Competition | 2022.03 ~ 2022.06 | 🥇[HowCook?(1인 가구 머신러닝 기반 레시피 추천 웹 서비스)](https://github.com/kookmin-sw/capstone-2022-10) | KMU(교내 캡스톤 경진대회) |
 | Project | 2022.08 ~ 2022.12 | [유니티 기반 2D 멀티플레이 로크라이크 게임](https://github.com/2022-2-gamesoftware-legend-team/the_legend_game) | kookmin University |
-| Competition | 2022.06 ~ 2022.12 | [(우수작품 선정) booriay(CCTV 기반 건물 내 화재 탐지 및 구조보조 앱)](https://github.com/KOBOTBOARD-11/OSS_2022) | OSS(Open Source Software)개발자 대회 |
-| 🏆Competition | 2022.06 ~ 2022.12 | 🥇[CarKeeper(차박 사용자에게 안전한 차박 경험을 제공하기 위한 솔루션)](https://github.com/KOBOTBOARD-11/2022ESWContest_mobility_6017) | the World Embedded software Contest 2022 Car/Mobilit (임베디드소프트웨어경진대회) |
+| Competition | 2022.06 ~ 2022.12 | [(우수작품 선정) booriay(CCTV 기반 건물 내 화재 탐지 및 구조보조 앱)](https://github.com/KOBOTBOARD-11/OSS_2022) | OSS(Open Source Software)공개 SW 개발자 대회 |
+| 🏆Competition | 2022.06 ~ 2022.12 | 🥇[CarKeeper(차박 사용자에게 안전한 차박 경험을 제공하기 위한 솔루션)](https://github.com/KOBOTBOARD-11/2022ESWContest_mobility_6017) | The World Embedded software Contest 2022 Car/Mobilit (임베디드소프트웨어경진대회) |
 | Education | 2023.01 ~ 2023.02 | 42Seoul 9기 1차 La piscine 교육 | 42Seoul |
    
    
