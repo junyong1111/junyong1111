@@ -2,9 +2,6 @@
 
 ### Hi there 👋
 
-Welcome to my Github.  
-
-
 
 | TYPE | Date | Contents | Organization |
 | --- | --- | --- | --- |
