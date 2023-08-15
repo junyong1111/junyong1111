@@ -11,6 +11,7 @@
 | Project | 2022.08 ~ 2022.12 | [유니티 기반 2D 멀티플레이 로크라이크 게임](https://github.com/2022-2-gamesoftware-legend-team/the_legend_game) | Kookmin University |
 | Competition | 2022.06 ~ 2022.12 | [(우수작품 선정) booriay(CCTV 기반 건물 내 화재 탐지 및 구조보조 앱)](https://github.com/KOBOTBOARD-11/OSS_2022) | OSS(Open Source Software)공개 SW 개발자 대회 |
 | 🏆Competition | 2022.06 ~ 2022.12 | 🥇[CarKeeper(차박 사용자에게 안전한 차박 경험을 제공하기 위한 솔루션)](https://github.com/KOBOTBOARD-11/2022ESWContest_mobility_6017) | The World Embedded software Contest 2022 Car/Mobilit (임베디드소프트웨어경진대회) |
+|Extracurricular Activities|2022.01 ~ 2022. 12 | [Kookmin University Embedded Robotics Society KOBOT(국민대학교 임베디드 로봇 학술 동아리)](https://github.com/kmu-kobot)| Kookmin University Embedded Robotics Society KOBOT |
 | Education | 2023.01 ~ 2023.02 | 42Seoul 9기 1차 La piscine 교육 | 42Seoul |
 | Study | 2023.03~ 2023.06 | [머신러닝을 이용한 추천 시스템](https://github.com/junyong1111/UROP) | KMU(UROP 학부연구) |
    
