@@ -21,6 +21,8 @@
 | Study | 2023.09~ ing | [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | KMU(알파프로젝트) |
    -->
 
+### 👉 [My Portfolio]([https://bit.ly/junyong](https://junyong1111.notion.site/edad4818ced64d42ab300b4cdba9ab81?pvs=4))
+
 | TYPE | Date | Contents | Organization |
 | --- | --- | --- | --- |
 | Intern | 2021.06 ~ 2021.08 | [실내 공기질 모니터링 시스템](https://github.com/junyong1111/Air-Quality-KMU) | 하계 현장실습 |
