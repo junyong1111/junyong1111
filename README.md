@@ -21,7 +21,8 @@
 | Study | 2023.09~ ing | [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | KMU(알파프로젝트) |
    -->
 
-### 👉 [My Portfolio]([https://junyong1111.notion.site/edad4818ced64d42ab300b4cdba9ab81?pvs=4])
+### 👉 [My Portfolio](https://junyong1111.notion.site/edad4818ced64d42ab300b4cdba9ab81?pvs=4)
+
 
 | TYPE | Date | Contents | Organization |
 | --- | --- | --- | --- |
