@@ -35,7 +35,7 @@
 | Education | 2023.01 ~ 2023.02 | 42Seoul 9기 1차 La piscine 교육 | 42Seoul |
 | Project | 2023.03~ 2023.06 | [KMUFLOW(Chat GPT를 이용한 소프트웨어 커뮤니티)](https://github.com/junyong1111/OOAD-KMUFLOW-) | ToyProject |
 | Study | 2023.03~ 2023.06 | [최신 머신러닝을 이용한 추천 시스템](https://github.com/junyong1111/UROP) | UROP 학부연구 |
-| Study | 2023.09~ ing | [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | 알파프로젝트 |
+| Study | 2023.09~ 2023.12 | [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | 알파프로젝트 |
    
  
 
