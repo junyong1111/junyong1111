@@ -19,10 +19,10 @@
 | Project | 2023.03~ 2023.06 | [KMUFLOW(Chat GPT를 이용한 소프트웨어 커뮤니티)](https://github.com/junyong1111/OOAD-KMUFLOW-) | Kookmin University |
 | Study | 2023.03~ 2023.06 | [최신 머신러닝을 이용한 추천 시스템](https://github.com/junyong1111/UROP) | KMU(UROP 학부연구) |
 | Study | 2023.09~ ing | [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | KMU(알파프로젝트) |
-   -->
+
 
 ### 👉 [My Portfolio](https://junyong1111.notion.site/edad4818ced64d42ab300b4cdba9ab81?pvs=4)
-
+   -->
 
 | TYPE | Date | Contents | Organization |
 | --- | --- | --- | --- |
