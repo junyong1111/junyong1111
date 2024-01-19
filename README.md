@@ -43,7 +43,7 @@
    
   
    
-
+<!-- 
    <div align="center">
       
    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> 
@@ -63,7 +63,7 @@
    <div align="center">
      
    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-<!--    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> -->
+   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> 
    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
    
   
@@ -76,11 +76,11 @@
    <img src="https://img.shields.io/badge/Python-437DD2?style=for-the-badge&logo=Python&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Java-6C5FDD?style=for-the-badge&logo=java&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
-   
 
    
    </div>
    
+-->
  
    
    
