@@ -18,7 +18,8 @@
 | Education | 2023.01 ~ 2023.02 | 42Seoul 9기 1차 La piscine 교육 | 42Seoul |
 | Project | 2023.03~ 2023.06 | [KMUFLOW(Chat GPT를 이용한 소프트웨어 커뮤니티)](https://github.com/junyong1111/OOAD-KMUFLOW-) | Kookmin University |
 | Study | 2023.03~ 2023.06 | [최신 머신러닝을 이용한 추천 시스템](https://github.com/junyong1111/UROP) | KMU(UROP 학부연구) |
-| Study | 2023.09~ ing | [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | KMU(알파프로젝트) |
+| Study | 2023.09~ 2023.12 | [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | KMU(알파프로젝트) |
+
 
 
 ### 👉 [My Portfolio](https://junyong1111.notion.site/edad4818ced64d42ab300b4cdba9ab81?pvs=4)
@@ -36,6 +37,7 @@
 | Project | 2023.03~ 2023.06 | [KMUFLOW(Chat GPT를 이용한 소프트웨어 커뮤니티)](https://github.com/junyong1111/OOAD-KMUFLOW-) | ToyProject |
 | Study | 2023.03~ 2023.06 | [최신 머신러닝을 이용한 추천 시스템](https://github.com/junyong1111/UROP) | UROP 학부연구 |
 | Study | 2023.09~ 2023.12 | [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | 알파프로젝트 |
+
    
   -->
 
@@ -51,6 +53,8 @@
 | Education |  42Seoul 9기 1차 La piscine 교육 | 42Seoul |
 | Study | [최신 머신러닝을 이용한 추천 시스템](https://github.com/junyong1111/UROP) | UROP 학부연구 |
 | Study |  [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | 알파프로젝트 |
+| Project | [ChatGPT를 활용한 소프트웨어 커뮤니티 개발 ](https://github.com/SUMMERTOYPROJECT/GPT_BOARD_WEB) | 개인프로젝트 |
+| Project | [건설 현장직을 위한 커뮤니티 애플리케이션](https://github.com/No-MLife/M-Life) | 개인프로젝트 |
    
  
 
