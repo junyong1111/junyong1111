@@ -52,8 +52,8 @@
 | 🏆Competition |  🥇[CarKeeper(차박 사용자에게 안전한 차박 경험을 제공하기 위한 솔루션) 2022년 임베디드 SW 경진대회 자동차 모빌리티 부문 1위 최우수상](https://github.com/KOBOTBOARD-11/2022ESWContest_mobility_6017) | [The World Embedded software Contest 2022 Car/Mobilit (임베디드소프트웨어경진대회)](https://www.eswcontest.or.kr/community/notice.php?ptype=view&idx=4384&page=1&code=notice) |
 | Education |  42Seoul 9기 1차 La piscine 교육 | 42Seoul |
 | Study | [최신 머신러닝을 이용한 추천 시스템](https://github.com/junyong1111/UROP) | UROP 학부연구 |
-| Study |  [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | 알파프로젝트 |
 | Project | [ChatGPT를 활용한 소프트웨어 커뮤니티 개발 ](https://github.com/SUMMERTOYPROJECT/GPT_BOARD_WEB) | 개인프로젝트 |
+| Study |  [GNN을 이용한 추천시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN) | 알파프로젝트 |
 | Project | [건설 현장직을 위한 커뮤니티 애플리케이션](https://github.com/No-MLife/M-Life) | 개인프로젝트 |
    
  
