@@ -34,4 +34,4 @@
 
 ## 📫 연락처
 - **블로그**: [jypark1111.tistory.com](https://jypark1111.tistory.com)
-- **이메일**: [jun.yong@example.com](mailto:jun.yong@example.com)
+- **이메일**: [jyporse@naver.com](jyporse@naver.com)
