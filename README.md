@@ -20,7 +20,7 @@
 
 ## 📚 교육
 - **42Seoul**: 9기 1차 La piscine 교육
-- **국민대학교**: 학사 - 컴퓨터 공학
+- **The School of Software, Kookmin University**
 
 ## 🔍 프로젝트
 - **[Air-Quality-KMU](https://github.com/junyong1111/Air-Quality-KMU)**: 실내 공기질 모니터링 시스템
