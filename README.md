@@ -30,8 +30,8 @@
 
 ## ✨ 최신 업데이트
 
-- **GNN을 이용한 추천 시스템 및 도메인 확장**: 알파 프로젝트
-- **건설 현장직을 위한 커뮤니티 애플리케이션**: 개인 프로젝트
+- **[GNN을 이용한 추천 시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN)**: 알파 프로젝트
+- **[건설 현장직을 위한 커뮤니티 애플리케이션](https://github.com/No-MLife/Life)**: 개인 프로젝트
 
 ## 📫 연락처
 - **블로그**: [jypark1111.tistory.com](https://jypark1111.tistory.com)
