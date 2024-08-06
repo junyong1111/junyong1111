@@ -19,8 +19,8 @@
 - **CarKeeper**: 안전한 차박 경험 제공 솔루션 (2022년 임베디드 SW 경진대회 자동차 모빌리티 부문 1위 최우수상)
 
 ## 📚 교육
+- **Nvidia DLI**: NVIDIA DeepLearningInstitue 딥러닝의 기초
 - **42Seoul**: 9기 1차 La piscine 교육
-- **The School of Software, Kookmin University**
 
 ## 🔍 프로젝트
 - **[Air-Quality-KMU](https://github.com/junyong1111/Air-Quality-KMU)**: 실내 공기질 모니터링 시스템
