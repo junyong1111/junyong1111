@@ -23,10 +23,10 @@
 - **42Seoul**: 9기 1차 La piscine 교육
 
 ## 🔍 프로젝트
-- **[Air-Quality-KMU](https://github.com/junyong1111/Air-Quality-KMU)**: 실내 공기질 모니터링 시스템
-- **[capstone-2022-10]([https://github.com/junyong1111/capstone-2022-10](https://github.com/kookmin-sw/capstone-2022-10)**: HowCook? 머신러닝 기반 레시피 추천 웹 서비스
-- **[2022ESWContest_mobility_6017]([https://github.com/junyong1111/2022ESWContest_mobility_6017](https://github.com/KOBOTBOARD-11/2022ESWContest_mobility_6017)**: CarKeeper 차박 솔루션
-- **[OSS_2022]([https://github.com/junyong1111/OSS_2022](https://github.com/KOBOTBOARD-11/OSS_2022)**: booriay 화재 탐지 및 구조보조 앱
+- **[실내 공기질 모니터링 시스템](https://github.com/junyong1111/Air-Quality-KMU)**
+- **[HowCook? 머신러닝 기반 레시피 추천 웹 서비스](https://github.com/kookmin-sw/capstone-2022-10)**
+- **[CarKeeper 차박 솔루션](https://github.com/KOBOTBOARD-11/2022ESWContest_mobility_6017)**
+- **[booriay 화재 탐지 및 구조보조 앱](https://github.com/KOBOTBOARD-11/OSS_2022)**
 
 ## ✨ 최신 업데이트
 
