@@ -28,8 +28,8 @@
 - **[CarKeeper 차박 솔루션](https://github.com/KOBOTBOARD-11/2022ESWContest_mobility_6017)**
 - **[booriay 화재 탐지 및 구조보조 앱](https://github.com/KOBOTBOARD-11/OSS_2022)**
 - **[GNN을 이용한 추천 시스템 및 도메인 확장](https://github.com/junyong1111/AlphaProject-GNN)**: 알파 프로젝트
-## ✨ 최신 업데이트
 - **[건설 현장직을 위한 커뮤니티 애플리케이션](https://github.com/No-MLife/Life)**: 개인 프로젝트
+## ✨ 최신 업데이트
 - **[LangChain을 이용한 PDF 퀴즈 생성 서비스 ](http://quizgen.site/)**: 토이 프로젝트
 
 ## 📫 연락처
